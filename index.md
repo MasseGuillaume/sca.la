@@ -4,7 +4,7 @@ This is an URL shortener for the Scala community.
 
 ## Register a URL
 
-If you want to register an URL, create a directory structure and add a file with the following format and send a PR to this GitHub repository: https://github.com/MasseGuillaume/sca.la/
+If you want to register an URL, create a directory structure and add a file with the following format and send a PR to this GitHub repository: [https://github.com/MasseGuillaume/sca.la/](https://github.com/MasseGuillaume/sca.la/)
 
 ```scala
 ---
