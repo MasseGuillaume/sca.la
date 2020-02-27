@@ -15,7 +15,7 @@ redirect_to: https://scala-lang.org
 
 For example:
 
-file           | url                           | redirect
----------------|-------------------------------|------------------------
-test.md        | https://sca.la/test           | https://scala-lang.org/
-example/nested | https://sca.la/example/nested | https://scala-lang.org/
+file           | url                                                            | redirect
+---------------|----------------------------------------------------------------|---------------------------------------------------
+test.md        | [https://sca.la/test](https://sca.la/test)                     | [https://scala-lang.org/](https://scala-lang.org/)
+example/nested | [https://sca.la/example/nested](https://sca.la/example/nested) | [https://scala-lang.org/](https://scala-lang.org/)
