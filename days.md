@@ -1,4 +1,4 @@
 ---
 title: Scala Days
-redirect_to: https://scala-days.org/
+redirect_to: https://www.scaladays.org/
 ---
