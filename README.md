@@ -1,6 +1,6 @@
 # sca.la
 
-This is a URL shortner for the Scala community.
+This is an URL shortner for the Scala community.
 
 ## Register a URL
 
