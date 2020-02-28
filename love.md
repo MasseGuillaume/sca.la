@@ -1,4 +1,4 @@
 ---
 title: Scala Love
-redirect_to: https://www.scala.love/
+redirect_to: https://scala.love/
 ---
