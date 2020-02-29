@@ -13,6 +13,8 @@ redirect_to: https://scala-lang.org
 ---
 ```
 
+As this block is parsed as YAML, ensure that any colons in the title are quoted.
+
 For example:
 
 file              | url                                                            | redirect
