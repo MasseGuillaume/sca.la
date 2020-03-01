@@ -1,5 +1,4 @@
 ---
-title: Test
-redirect_to: https://scala-js.org
+title: Scala.js
+redirect_to: https://www.scala-js.org
 ---
-
