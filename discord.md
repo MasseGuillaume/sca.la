@@ -1,4 +1,4 @@
 ---
 title: Scala Community Discord Server
-redirect_to: https://discord.gg/scala
+redirect_to: https://discord.com/invite/scala
 ---
