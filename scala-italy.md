@@ -1,4 +1,4 @@
 ---
-title: Italian Scala Conference
+title: Scala Italy
 redirect_to: https://scala-italy.it
 ---
